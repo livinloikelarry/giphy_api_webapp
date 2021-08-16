@@ -7,4 +7,4 @@ create a branch using git commands and explain the purpose and importance of ver
 understand how pull requests track changes and implement best practices for code reviews on GitHub.
 
 <!-- ![walkthrough of giphy party app](giphydemo.gif) -->
-<img src="./giphydemo.gif" width="128"/>
+<img src="./giphydemo.gif" width="300"/>
