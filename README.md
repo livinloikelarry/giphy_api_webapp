@@ -6,4 +6,5 @@ identify and implement asynchronous programming with async/await functions and c
 create a branch using git commands and explain the purpose and importance of version control.
 understand how pull requests track changes and implement best practices for code reviews on GitHub.
 
-![walkthrough of giphy party app](giphydemo.gif)
+<!-- ![walkthrough of giphy party app](giphydemo.gif) -->
+<img src="./giphydemo.gif" width="128"/>
